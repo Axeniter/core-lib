@@ -1,2 +1,5 @@
-# programming-lib
-programming notes
+# core-lib
+Конспекты по математике и программированию
+## Используемые плагины
+- Latex Suite
+- Git
